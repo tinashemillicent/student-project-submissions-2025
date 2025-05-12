@@ -1,5 +1,32 @@
-# Video Explanation
+# Capstone Project Submission
 
-If you cannot upload your video directly, please paste a link to your video below:
+## 📁 Project Code
+Download the project files:  
+NB: Can only be accessed with HIT Emails
+[Project ZIP File](https://drive.google.com/file/d/1TEpXQGFpd7hu14jFFFqYIAzxJ6Ib0Jdq/view?usp=sharing))  
 
-Video link: [Your video link here]
+### 🛠️ Setup Instructions
+1. **Extract** the downloaded ZIP file.
+2. Open the project in your preferred editor (e.g., VS Code).
+3. Navigate to the `web` folder in your terminal:
+```bash
+cd Project-Code/web
+```
+4. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+5. Run Application:
+```bash
+uvicorn main:app --reload
+```
+## 📹 Video Explanation
+Watch the project walkthrough: 
+NB: Can only be accessed with HIT Emails
+[Project ZIP File](https://drive.google.com/file/d/1TEpXQGFpd7hu14jFFFqYIAzxJ6Ib0Jdq/view?usp=sharing))  
+
+## 📧 Contact
+For questions or feedback:
+Academic Email: h210590t@hit.ac.zw
+
+Personal Email: tinashesefaidiga@gmail.com
